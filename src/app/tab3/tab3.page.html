@@ -1,63 +1,36 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Alan Rios
-    </ion-title>
+    <ion-title>Calcular Raíces</ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content [fullscreen]="true" class="ion-padding">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">Alan Rios</ion-title>
+      <ion-title size="large">Raíces Cuadráticas</ion-title>
     </ion-toolbar>
   </ion-header>
-  <ion-card>
-    <ion-card-header>
-      <img
-        src="https://res.cloudinary.com/dkhh1qdbr/image/upload/c_thumb,g_face,h_200,w_200/r_max/f_auto/nei0lcfmamljvsvveluk"
-        alt="foto-perfil" class="profile-image">
-      <ion-card-title>Alan Rios</ion-card-title>
-      <hr>
-      <div class="social-network">
-        <a href="https://www.facebook.com/alan.l.rios.hd/?locale=es_LA"><ion-icon name="logo-facebook"></ion-icon></a>
-        <a href="https://x.com/alan_ri0s"><ion-icon name="logo-x"></ion-icon></a>
-        <a href="https://www.instagram.com/alan._.rios/"><ion-icon name="logo-instagram"></ion-icon></a>
-        <a href="https://github.com/AlanRiosMendoza"><ion-icon name="logo-github"></ion-icon></a>
-      </div>
-      <ion-card-subtitle>Desarrollador Backend · Quito, EC · <a
-          href="mailto:alan.rios.hd@gmail.com">alan.rios.hd&#64;gmail.com</a></ion-card-subtitle>
-      <p>+593 96 013 1442</p>
-    </ion-card-header>
+
+  <ion-item>
+    <ion-label position="floating">Valor de a</ion-label>
+    <ion-input type="number" [(ngModel)]="a"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">Valor de b</ion-label>
+    <ion-input type="number" [(ngModel)]="b"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">Valor de c</ion-label>
+    <ion-input type="number" [(ngModel)]="c"></ion-input>
+  </ion-item>
+
+  <ion-button expand="full" (click)="calcularRaices()">Calcular Raíces</ion-button>
+
+  <ion-card *ngIf="resultado">
     <ion-card-content>
-      <p>Hola, soy Alan y soy Desarrollador de Software. Soy un diseñador de sistemas
-        eficiente, programador backend. No me asusta usar la terminal, escribir scripts en shell ni
-        tocar la base de datos. Entusiasta de la Ciencia de Datos y la Inteligencia Artificial, y un buen orador.
-        Siempre
-        emocionado de aprender sobre Desarrollo de Software, DevOps, Redes e Informática.
-      </p>
-      <hr>
-      <h5>Habilidades</h5>
-      <ul>
-        <li>Lenguajes de programación: C++, Java, Python, JavaScript</li>
-        <li>Bases de datos: MySQL, MongoDB</li>
-        <li>Entorno de ejecución para backend: Node.js</li>
-        <li>Frameworks: Ionic, Express.js</li>
-        <li>Entorno de trabajo: Git</li>
-      </ul>
-      <h5>Educación</h5>
-      <ul>
-        <li>Tecnología Superior de Desarrollo de Software, ESFOT, 2022 - ?</li>
-      </ul>
-      <hr>
-      <h5>Proyectos</h5>
-      <hr>
-      <ul>
-        <li><a href="https://github.com/AlanRiosMendoza/Food-Ordering-API-RESTful">API RESTful de ordenar comida</a></li>
-        <li><a href="https://github.com/AlanRiosMendoza/API-RESTful-Veterinary-Management">API RESTful de administrar una veterinaria</a></li>
-      </ul>
-      
+      <p>{{ resultado }}</p>
     </ion-card-content>
   </ion-card>
-
 </ion-content>
