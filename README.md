@@ -19,5 +19,20 @@ Splash Screen
 
 
 
-Icono personalizdo
+## Icono personalizado
+
+Splash Screens and Icons
+
+# Install 
+![{7A8BCC30-8918-4283-A8F6-9CA22C6B9A74}](https://github.com/user-attachments/assets/7742e654-3634-4b10-b2b2-3a995788e884)
+
+# folder/filename structure
+![{F99F2616-1749-41B7-975A-F917FC517009}](https://github.com/user-attachments/assets/f1a6185d-54ff-4986-8aa1-90765d46136a)
+![{CF82707F-D5C4-4782-BAB1-BF13B3874AAB}](https://github.com/user-attachments/assets/724cdc72-940f-4d2b-9d27-6d2a5aa62e1b)
+
+
+
+
+
+
 
