@@ -29,6 +29,16 @@ Splash Screens and Icons
 # folder/filename structure
 ![{F99F2616-1749-41B7-975A-F917FC517009}](https://github.com/user-attachments/assets/f1a6185d-54ff-4986-8aa1-90765d46136a)
 ![{CF82707F-D5C4-4782-BAB1-BF13B3874AAB}](https://github.com/user-attachments/assets/724cdc72-940f-4d2b-9d27-6d2a5aa62e1b)
+![{E8E7FF28-DB0E-49BA-98EC-2FF6F079B854}](https://github.com/user-attachments/assets/40b49189-9d81-4192-9f28-a6cf0cd2951a)
+
+
+# Desplege
+
+![{41216711-ED78-416B-ACE7-D1750947FFA4}](https://github.com/user-attachments/assets/ac86bf0b-20f6-41db-a8c3-04971ccee563)
+![{F83EDF4C-7AA5-49B4-A808-F2CD7EE28612}](https://github.com/user-attachments/assets/9450e25c-0fee-4b97-ad0b-1547384304ba)
+
+
+
 
 
 
