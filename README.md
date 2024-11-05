@@ -38,6 +38,7 @@ Splash Screens and Icons
 
 
 ![{F83EDF4C-7AA5-49B4-A808-F2CD7EE28612}](https://github.com/user-attachments/assets/9450e25c-0fee-4b97-ad0b-1547384304ba)
+![{B890AA04-C072-43E0-9213-B86D30BB4B1E}](https://github.com/user-attachments/assets/b8a73ed4-30c9-4060-abf6-beceb8cdc954)
 
 
 
