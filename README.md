@@ -27,7 +27,8 @@ Splash Screens and Icons
 ![{7A8BCC30-8918-4283-A8F6-9CA22C6B9A74}](https://github.com/user-attachments/assets/7742e654-3634-4b10-b2b2-3a995788e884)
 
 # folder/filename structure
-![{F99F2616-1749-41B7-975A-F917FC517009}](https://github.com/user-attachments/assets/f1a6185d-54ff-4986-8aa1-90765d46136a)
+
+![{57D76D17-6545-4A72-8B81-DCF9616D94C7}](https://github.com/user-attachments/assets/9d6618dd-1f5c-405b-bbf2-f059e0412feb)
 ![{CF82707F-D5C4-4782-BAB1-BF13B3874AAB}](https://github.com/user-attachments/assets/724cdc72-940f-4d2b-9d27-6d2a5aa62e1b)
 ![{E8E7FF28-DB0E-49BA-98EC-2FF6F079B854}](https://github.com/user-attachments/assets/40b49189-9d81-4192-9f28-a6cf0cd2951a)
 
