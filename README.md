@@ -29,7 +29,7 @@ Splash Screens and Icons
 # folder/filename structure
 
 ![{57D76D17-6545-4A72-8B81-DCF9616D94C7}](https://github.com/user-attachments/assets/9d6618dd-1f5c-405b-bbf2-f059e0412feb)
-![{CF82707F-D5C4-4782-BAB1-BF13B3874AAB}](https://github.com/user-attachments/assets/724cdc72-940f-4d2b-9d27-6d2a5aa62e1b)
+
 ![{E8E7FF28-DB0E-49BA-98EC-2FF6F079B854}](https://github.com/user-attachments/assets/40b49189-9d81-4192-9f28-a6cf0cd2951a)
 
 
